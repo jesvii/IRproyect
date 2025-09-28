@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="3E2obpXCJjEJ" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Producto]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[
++ Nombre del producto.
++ Tipo del producto (Retro, Actual).
++ Precio del producto.
++ Stock disponible.
++ Puede pertenecer a un Drop.
++ Es parte de uno o más Pedidos (aquí se especifica la cantidad y si se desea o no personalización).
++ Puede exponerse en varios Eventos.
++ Aparece en uno o más Albaranes (aquí se especifica la cantidad y si se desea o no personalización).
++ Puede estar asociado a la colaboración con una Empresa.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

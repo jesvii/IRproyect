@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="3DjJpRzCxr4S" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Paragraph]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-11-19</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[Los objetivos del proyecto son dar solución a una seria de problemas con los que cuenta la empresa Eldiez y documentarlos.
+
+Los problemas a grosso modo serían: dar visibililiad a eventos especiales, automatización de respuestas a preguntas frecuentes y gestión de ventas (control de stock y datos de compra de los productos).
+
+Por todo esto, el principal objetivo será dar facilidades a los usuarios y hacer un trabajo más limpio y organizado para los trabajadores de Eldiez.]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

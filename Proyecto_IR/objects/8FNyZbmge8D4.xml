@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="8FNyZbmge8D4" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Evento]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[+ Nombre.
++ Ubicación.
++ Fecha.
++ Costo del stand.
++ Expone uno o más Productos.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

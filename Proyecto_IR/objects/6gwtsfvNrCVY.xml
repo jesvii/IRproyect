@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="6gwtsfvNrCVY" classes="software-requirement use-case" acceptedChildren="use-case-step" acceptedParents=":Proteus-any">
+  <properties>
+    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[UC-]]></prefix><number>002</number><suffix><![CDATA[]]></suffix></codeProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Preparar pedidos]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-12-03</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="description" category="detail"><![CDATA[El sistema deberá comportarse de la siguiente forma cuando un trabajador prepare un pedido.]]></markdownProperty>
+    <markdownProperty name="precondition" category="pre-post"><![CDATA[El sistema ha registrado un pedido.]]></markdownProperty>
+    <markdownProperty name="postcondition" category="pre-post"><![CDATA[El sistema guarda el nuevo estado del pedido.]]></markdownProperty>
+    <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
+    <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">tbd</enumProperty>
+    <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>
+    <enumProperty name="stability" category="priority" choices="tbd low medium high">tbd</enumProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency">
+      <trace target="5o52t2QvcPbi" traceType=":Proteus-dependency"/>
+      <trace target="6zPF8uEt2Ztn" traceType=":Proteus-dependency"/>
+      <trace target="6whQd7kzoTGp" traceType=":Proteus-dependency"/>
+      <trace target="5iPvmJah6K7h" traceType=":Proteus-dependency"/>
+    </traceProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children>
+    <child id="x3wTN7nMAaKy"/>
+    <child id="5RUyW3C4nZ65"/>
+    <child id="3cEzNEiMncFg"/>
+    <child id="5FX2KnUhh5pe"/>
+    <child id="6nE96sux9fu4"/>
+    <child id="bNsC3YAVcdkp"/>
+    <child id="34U96wJUzAxu"/>
+    <child id="6vFiwavqiVxq"/>
+  </children>
+</object>

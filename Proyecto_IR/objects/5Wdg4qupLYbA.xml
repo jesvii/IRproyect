@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="5Wdg4qupLYbA" classes="meeting" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Meeting]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="detail">2024-11-18</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <timeProperty name="time" category="detail">17:30:00</timeProperty>
+    <stringProperty name="place" category="detail"><![CDATA[Skype]]></stringProperty>
+    <traceProperty name="attenders" category="detail" acceptedTargets="stakeholder" traceType=":Proteus-information-source">
+      <trace target="7ShNkTTB5329" traceType=":Proteus-information-source"/>
+      <trace target="6mXUi6VLLUeg" traceType=":Proteus-information-source"/>
+      <trace target="4HZCGqrFpjoD" traceType=":Proteus-information-source"/>
+      <trace target="3qpVxbR8ekJs" traceType=":Proteus-information-source"/>
+      <trace target="44GQvBcysGsA" traceType=":Proteus-information-source"/>
+      <trace target="5RwsuG6arzUZ" traceType=":Proteus-information-source"/>
+      <trace target="3tiinUaqv6y6" traceType=":Proteus-information-source"/>
+      <trace target="8AifaU5zrbDC" traceType=":Proteus-information-source"/>
+    </traceProperty>
+    <markdownProperty name="results" category="results"><![CDATA[Tema: Concreción de los requisitos, necesidades interfaz de usuario y debatir casos de uso.
+
+Puntos tratados: 
+
+1. Requisitos de fiabilidad, usabilidad, manenibilidad, eficiencia y portabilidad.
+	+ Información sobre los requisitos necesarios para el sistema.
+
+2. Aprobación de la interfaz de usuario.
+3. Concreción de los casos de uso.
+
+]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="5AxmUXJcSG7q" classes="meeting" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Meeting]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="detail">2024-10-09</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <timeProperty name="time" category="detail">19:00:00</timeProperty>
+    <stringProperty name="place" category="detail"><![CDATA[LLamada de WhatsApp]]></stringProperty>
+    <traceProperty name="attenders" category="detail" acceptedTargets="stakeholder" traceType=":Proteus-information-source">
+      <trace target="6mXUi6VLLUeg" traceType=":Proteus-information-source"/>
+      <trace target="7ShNkTTB5329" traceType=":Proteus-information-source"/>
+      <trace target="4HZCGqrFpjoD" traceType=":Proteus-information-source"/>
+      <trace target="3qpVxbR8ekJs" traceType=":Proteus-information-source"/>
+      <trace target="44GQvBcysGsA" traceType=":Proteus-information-source"/>
+      <trace target="5RwsuG6arzUZ" traceType=":Proteus-information-source"/>
+      <trace target="3tiinUaqv6y6" traceType=":Proteus-information-source"/>
+    </traceProperty>
+    <markdownProperty name="results" category="results"><![CDATA[Tema: Procesos de negociación y colaboración de Eldiez con empresas y eventos.
+
+Puntos tratados:
+
+1. Participación de Eldiez en eventos:
+
+	+ Modalidad de contacto: 
+		
+		+ La empresa puede ser contactada de dos formas:
+
+		+ Un representante de la empresa visita la tienda, lo cual es poco común.
+		+ La empresa contacta a Eldiez por redes sociales.
+
+	+ Negociación inicial: 
+		+ Cuando se trata de participar en un evento, lo primero que se acuerda es el precio del stand, ya que para poder vender en el evento es necesario pagar un alquiler. El acuerdo inicial incluye el precio del stand y si Eldiez lo montará o si estará ya montado. Generalmente prefieren montarlo ellos mismos para reducir costos y personalizarlo según sus preferencias.
+
+	+ Asignación de espacio: 
+		+ Una vez acordado el stand, se negocia el lugar dentro del evento donde estará ubicado, así como la fecha para el montaje.
+
+	+ Cierre del evento: 
+		+ Al finalizar el evento, es común que los directivos del evento visiten el stand, momento en el que se suele preacordar la participación en futuros eventos de la misma marca.
+
+2. Colaboración con empresas para creación o mejora de productos:
+
+	+ Modalidad de contacto: 
+		+ Las empresas pueden contactar a Eldiez de manera presencial u online para encargar la creación o mejora de un producto.
+
+	+ Reunión inicial: 
+		+ En la primera reunión se discute el alcance del proyecto, verificando si Eldiez tiene personal disponible para asumirlo. Es fundamental cerrar el concepto desde el principio para evitar confusiones posteriores, por ejemplo, si se trata de una camiseta o una equipación, ya que esto impacta el diseño y la producción.
+
+	+ Desarrollo del proyecto: 
+		+ Con el concepto claro, el equipo comienza a trabajar en renders y mockups. La siguiente fase es un proceso iterativo en el que se presentan propuestas al cliente, quien sugiere cambios. El equipo de Eldiez trabaja sobre esas modificaciones hasta que el cliente queda satisfecho.
+
+	+ Condiciones de pago: 
+		+ Desde la primera reunión, Eldiez establece que debe haber un pago inicial antes de comenzar el trabajo. Normalmente, se utiliza un esquema de pago del 60% al inicio del proyecto y el 40% restante al finalizar.
+
+3. Personalización de camisetas:
+
+	+ Proceso: 
+		+ Un cliente llega a Eldiez con una camiseta sin dorsal y solicita una personalización. Eldiez ofrece los materiales oficiales para fabricar el dorsal. Una vez listo, se coloca en la camiseta, se cobra y se entrega al cliente.
+
+4. Venta de camisetas estándar:
+
+	+ Proceso: 
+		+ El cliente visita la tienda, elige la camiseta que le gusta, realiza la compra y se lleva el producto.
+
+Eldiez sigue un proceso bien estructurado tanto para la participación en eventos como para la colaboración con empresas en la creación de productos. Además, se mantienen claras las condiciones de pago y se prioriza la personalización y calidad en todos los productos ofrecidos.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

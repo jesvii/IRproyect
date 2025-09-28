@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="6EJtgbiHtNEG" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Paragraph]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-10-09</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[Los procedimientos explicados quedarán plasmados de forma gráfica con los diagramas BPMN del apartado 3.2.2.
+
+###Proceso de contacto con empresas
+
+Todo empieza cuando la empresa interesada contacta con ElDiez, ya sea para mejorar un producto o para crear uno nuevo con su ayuda. Para esto, ambos concretan una reunión y acuerdan un presupuesto previo (60% por adelantado y tras finalizar el producto el 40%). En la reunión la empresa le cuenta como quiere que sea su producto y ElDiez crea tanto los mockups como los renders para mostarlos en una segunda reunión, donde la empresa contempla el resultado y decide si dar el visto bueno. Si no hace falta modificar los mockups y renders se pasa a la producción del producto y la empresa paga la cantidad de dinero acordada.
+
+
+###Proceso de gestión de camisetas
+
+El cliente puede pedir la camiseta de manera online o presencial: 
+En el caso que sea online, los clientes preguntan a través de redes sociales y ElDiez responde con la disponibilidad de las camisetas y ofrece un precio al cliente. 
+
+En el caso que el cliente acepte el precio de venta, compra la camiseta y paga online. Cuando ElDiez recibe el dinero envían el pedido al cliente.
+
+En cambio si compran la camiseta de forma presencial, se tiene la opción de poder pegar un dorsal personalizado al producto. El procedimiento de compra sería similar, el cliente en la tienda pregunta por la disponibilidad de tallas de la camiseta que elija y pasa al pago de la misma.
+
+###Proceso de eventos
+
+La empresa organizadora del evento invita a marcas emergentes, en nuestro caso Eldiez, posteriormente se organiza una pequeña reunión donde se acuerda el precio para el stand (puesto donde venderán su ropa) dentro del evento, y les da la opción de montar su propio stand o que la empresa le monte uno básico, en el primero se elevaría el precio. Una vez aclarado esto, se pasa a establecer los horarios en el cual podrán vender durante  el evento. Al acabar se hace un repaso directivo donde se revisan las ganancias y se le deberá de pagar a la empresa un porcentaje de lo ganado (a cambio de promocionar tu marca en el evento).
+
+###Creación de drops
+
+Este procedimiento parte de una idea  innovadora del CM, quien la traslada a mockups y le enseña la idea al CEO. Si se acepta la idea se crean una cantidad limitada de productos y se anuncia el drop para su futura venta.
+]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

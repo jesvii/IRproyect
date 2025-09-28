@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="5asRwepXRcpH" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Proveedor]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[+ Nombre del Proveedor.
++ Correo electrónico.
++ Teléfono.
++ Ubicación.
++ Emite uno o más Albaranes.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="7XZTqFftQn9z" classes="business-requirement business-actor" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
+  <properties>
+    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[BACT-]]></prefix><number>006</number><suffix><![CDATA[]]></suffix></codeProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Javier]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-10-23</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <traceProperty name="participates-in" category="detail" acceptedTargets="business-process" traceType=":Proteus-dependency"/>
+    <markdownProperty name="description" category="detail"><![CDATA[Se dedica a buscar artículos de segunda mano y de reventa en plataformas especializadas, asegurando que los productos adquiridos por Eldiez sean auténticos y de alta calidad.]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

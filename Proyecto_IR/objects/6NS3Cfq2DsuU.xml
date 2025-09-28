@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="6NS3Cfq2DsuU" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Pedido]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[+ Fecha del pedido
++ Estado del pedido (Entregado, Procesando, Recibido).
++ Método de pago (Efectivo, Tarjeta, Bizum).
++ Tipo de interacción (Página Web, Redes Sociales, Presencial).
++ Está realizado por un Cliente.
++ Es preparado por un Trabajador.
++ Puede generar una Factura.
++ Contiene uno o más Productos (aquí se especifica la cantidad y si se desea o no personalización).]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

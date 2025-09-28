@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="nufsn8QCbGHV" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Fortalezas de la situación actual]]></stringProperty>
+    <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children>
+    <child id="7sAvehbfwarS"/>
+    <child id="8LxS9ZGKf4qW"/>
+    <child id="5hwuoqa2NDQS"/>
+    <child id="3MEiFrEysKej"/>
+  </children>
+</object>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="33STd9ihFrE6" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Paragraph]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-11-19</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[Eldiez es una pequeña empresa local ubicada en Madrid, compuesta por un equipo de 6 personas. La empresa se especializa en la venta de camisetas y productos vintage relacionados con el ámbito deportivo, principalmente fútbol, así como en la personalización oficial de dorsales. Además, Eldiez es reconocida por sus artículos de colección y su capacidad de asesoramiento gráfico.
+A pesar de que su presencia física está limitada a una sola tienda cerca de la Gran Vía de Madrid, la empresa ha logrado establecerse como un referente en su mercado, colaborando con marcas reconocidas como Budweiser, Late Checkout y Forbes. Actualmente, no cuentan con una tienda online activa, pero gestionan pedidos a través de redes sociales, donde tienen una presencia significativa, con más de 10,000 seguidores tanto en TikTok como en Instagram.
+]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

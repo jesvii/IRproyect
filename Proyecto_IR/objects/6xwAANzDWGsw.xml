@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="6xwAANzDWGsw" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Descripción de los diagramas de secuencia del sistema]]></stringProperty>
+    <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children>
+    <child id="84UeEmuEoPwb"/>
+    <child id="3siqUMZSr8FR"/>
+    <child id="57UD5Vn6HMQe"/>
+    <child id="8FoRSJhUpmY7"/>
+    <child id="54FcMPAJw66M"/>
+    <child id="5gvdXWXxwkxA"/>
+    <child id="3YwrqpzKFndH"/>
+    <child id="3qdF2jSQah2A"/>
+    <child id="3sBydbDHoGaR"/>
+  </children>
+</object>
